@@ -610,6 +610,8 @@ body {
     width: 100%;
     max-width: 1200px;
     margin: 0 auto;
+    margin-left: 80px;
+    /* Account for sidebar */
     padding: 0 20px;
 }
 
