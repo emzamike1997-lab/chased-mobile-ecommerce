@@ -662,12 +662,17 @@ body {
     margin-bottom: 30px;
 }
 
+.footer-column {
+    text-align: left;
+}
+
 .footer-column h4 {
     color: var(--parakeet-green);
     font-size: 14px;
     font-weight: 700;
     margin-bottom: 15px;
     letter-spacing: 1px;
+    text-align: left;
 }
 
 .footer-logo {
@@ -680,10 +685,12 @@ body {
     font-size: 13px;
     line-height: 1.6;
     color: var(--heavenly-grey);
+    text-align: left;
 }
 
 .footer-links {
     list-style: none;
+    text-align: left;
 }
 
 .footer-links li {
@@ -706,6 +713,7 @@ body {
     font-size: 13px;
     color: var(--heavenly-grey);
     margin-bottom: 15px;
+    text-align: left;
 }
 
 .newsletter-form {
